@@ -107,5 +107,5 @@ Excel
 
 # Contact
 
-LinkedIn: ADD_LINK  
-GitHub: ADD_LINK# credit-risk-analysis-financial-analysis-portfolio
+LinkedIn: www.linkedin.com/in/avantikapandeyy  
+GitHub: (https://github.com/AvantikaPandey28)
