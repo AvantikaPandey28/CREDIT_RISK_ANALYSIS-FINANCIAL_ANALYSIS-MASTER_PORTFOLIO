@@ -60,7 +60,7 @@ Corporate credit risk assessment project analyzing:
 Excel | SQL | Power BI
 
 ### Project Link
-[Open Project]((https://github.com/AvantikaPandey28/Credit-Appraisal-and-Risk-Analysis-Project))
+[Open Project](https://github.com/AvantikaPandey28/Credit-Appraisal-and-Risk-Analysis-Project)
 
 ---
 
@@ -76,7 +76,7 @@ Financial valuation model analyzing:
 Excel
 
 ### Project Link
-[Open Project]((https://github.com/AvantikaPandey28/ultratech-cement-valuation_model))
+[Open Project](https://github.com/AvantikaPandey28/ultratech-cement-valuation_model)
 
 ---
 
@@ -92,7 +92,7 @@ Business financial model covering:
 Excel
 
 ### Project Link
-[Open Project]((https://github.com/AvantikaPandey28/blissful-bakes-financial-model))
+[Open Project](https://github.com/AvantikaPandey28/blissful-bakes-financial-model)
 
 ---
 
