@@ -101,7 +101,7 @@ Excel
 - Financial Modeling Placement Guarantee Course from Internshala (In Progress)
 - Credit Risk Analysis Courses (Udemy)
 - Power BI & SQL Learning
-- Adevance Excel Course
+- Advance Excel Course
 
 ---
 
