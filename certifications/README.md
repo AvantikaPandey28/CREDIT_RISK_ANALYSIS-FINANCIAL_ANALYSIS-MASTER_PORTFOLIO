@@ -1,1 +1,0 @@
-Professional certifications and credentials.
